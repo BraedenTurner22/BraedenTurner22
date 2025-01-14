@@ -1,6 +1,6 @@
-## Hey! I'm Braeden
+## Hey! I'm Braeden:)
 
-![NAME github stats](https://github-readme-stats.vercel.app/apiusername=BraedenTurner22&show_icons=true&theme=merko) 
+![NAME github stats](https://github-readme-stats.vercel.app/apiusername=BraedenTurner22&show_icons=true&theme=radical) 
 
 <!--
 **BraedenTurner22/BraedenTurner22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
