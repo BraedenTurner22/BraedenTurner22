@@ -1,6 +1,6 @@
 ## Braeden Turner
 
-<h3 align="left">A freshman studying computer science at the University of Massachusetts—Amherst.</h3>
+<h3 align="left">Studying computer science at the University of Massachusetts—Amherst.</h3>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BraedenTurner22&show_icons=true&theme=gruvbox)
 
