@@ -1,4 +1,4 @@
-<h3 align="left">Hey! I'm Braeden, a freshman studying computer science at the University of Massachusetts—Amherst.</h3>
+<h3 align="left">Hey! I'm Braeden, currently a sophomore studying computer science at the University of Massachusetts—Amherst.</h3>
 
 ---
 
